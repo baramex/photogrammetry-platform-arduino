@@ -3,6 +3,8 @@ A rotating photogrammetry platform made home for aduino !
 
 Works well with meshroom (free)
 
+### ⚠️ this is a version made in 2020 and not retouched since
+
 ## infos ##
 [![](https://tokei.rs/b1/github/baramex/photogrammetry-platform-arduino)]()<br/>
 [![](https://img.shields.io/github/languages/top/baramex/photogrammetry-platform-arduino?style=for-the-badge)]()
